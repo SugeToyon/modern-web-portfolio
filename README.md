@@ -5,6 +5,8 @@
 
 Modern, responsive ve minimalist bir kişisel portföy sitesi. Web geliştirme yeteneklerimi, projelerimi ve sunduğum hizmetleri sergilemek amacıyla geliştirilmiştir.
 
+**[🌐 CANLI DEMO İÇİN TIKLA](https://sugetoyon.github.io/modern-web-portfolio/)**
+
 ---
 
 ## 📖 Hakkında
